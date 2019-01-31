@@ -16,9 +16,7 @@
         <module>registry-service</module>
         <module>image-service</module>
         <module>galery-service</module>
-       <!--
         <module>gateway-service</module>
-        -->
     </modules>
 	
 </project>
